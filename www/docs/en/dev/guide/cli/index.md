@@ -216,9 +216,11 @@ To add and save the camera plugin to `config.xml` and `package.json`, we will sp
 
 ```
 $ cordova plugin add cordova-plugin-camera
-Fetching plugin "cordova-plugin-camera@~2.1.0" via npm
 Installing "cordova-plugin-camera" for android
+Subproject Path: CordovaLib
+Subproject Path: app
 Installing "cordova-plugin-camera" for ios
+Adding cordova-plugin-camera to package.json
 ```
 
 Plugins can also be added using a directory or a git repo.
